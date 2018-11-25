@@ -1,4 +1,0 @@
-C:/_karus/coding/c++/shooting_range/CMakeFiles/ShootingRange.dir
-C:/_karus/coding/c++/shooting_range/CMakeFiles/INSTALL.dir
-C:/_karus/coding/c++/shooting_range/CMakeFiles/ALL_BUILD.dir
-C:/_karus/coding/c++/shooting_range/CMakeFiles/ZERO_CHECK.dir
