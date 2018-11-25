@@ -1,0 +1,50 @@
+# CMake generation dependency list for this directory.
+C:/_karus/coding/c++/shooting_range/CMakeLists.txt
+C:/_karus/coding/c++/shooting_range/CMakeFiles/3.8.0/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeSystemSpecificInitialize.cmake
+C:/_karus/coding/c++/shooting_range/CMakeFiles/3.8.0/CMakeCCompiler.cmake
+C:/_karus/coding/c++/shooting_range/CMakeFiles/3.8.0/CMakeCXXCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC.cmake
+C:/_karus/coding/c++/shooting_range/CMakeFiles/3.8.0/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/_karus/coding/c++/shooting_range/CMake/Modules/Urho3D-CMake-common.cmake
+C:/_karus/coding/c++/shooting_range/CMake/Modules/CheckHost.cmake
+C:/_karus/coding/c++/shooting_range/CMake/Modules/CheckCompilerToolchain.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeDependentOption.cmake
+C:/_karus/coding/c++/shooting_range/CMake/Modules/FindUrho3D.cmake
+C:/_karus/coding/c++/shooting_range/CMake/Modules/CheckUrho3DLibrary.cpp
+C:/Program Files/CMake/share/cmake-3.8/Modules/FindPackageMessage.cmake
+C:/_karus/coding/c++/shooting_range/CMake/Modules/FindDirectX.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckIncludeFile.cxx.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeConfigurableFile.in
+C:/Program Files/CMake/share/cmake-3.8/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeParseArguments.cmake
+C:/_karus/coding/c++/shooting_range/CMake/Modules/GenerateExportHeader.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake

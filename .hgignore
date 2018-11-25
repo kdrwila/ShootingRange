@@ -1,0 +1,14 @@
+syntax: glob
+CMake/
+CMakeFiles/
+CMake*
+Debug/
+Release/
+bin/*.*
+shooting_range.VC.VC.opendb
+shooting_range.VC.db
+cmake_install.cmake
+bin/CoreData/Shaders/HLSL/Cache/*
+bin/Data/_DownloadedAssets/
+bin/Editor/
+bin/_DownloadedAssets/
